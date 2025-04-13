@@ -13,7 +13,7 @@ running distance-cell_model_cognitive_map.R and place-cell_model_cognitive_map.R
 1. For fixed platform, set the variable variable_platform to 0. For variable platform, set to 1
 ```r
 variable_platform <- 0 #the platform is variable - 1, the platform is fixed - 0
-
+```
 2. Running distance-cell model.R and place-cell model.R two files
 3. Running fixed_platform.R or variable_platform.R to produce result pictures
 4. for statiscal analysis, choose the expected metric for analysis and running stastic_analysis.R file. For example, latency
